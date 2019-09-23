@@ -1,0 +1,29 @@
+{
+  "name": "fareye",
+  "version": "1.0.0",
+  "description": "an experimental web app that adjusts text size based on user position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmlunesa/fareye.git"
+  },
+  "keywords": [
+    "nodejs",
+    "gmlunesa",
+  ],
+  "author": "Goldy Mariz Lunesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gmlunesa/fareye/issues"
+  },
+  "homepage": "https://github.com/gmlunesa/fareye#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+}
